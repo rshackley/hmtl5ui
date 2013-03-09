@@ -1,0 +1,8 @@
+
+<button id="snapshot">Snapshot</button>
+<button id="filter">Random Filter</button>
+<div class="video-container">
+  <video id="video" autoplay></video>
+  <canvas></canvas>
+</div>
+
